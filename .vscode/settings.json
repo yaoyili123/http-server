@@ -1,0 +1,9 @@
+{
+    "C_Cpp.default.cppStandard": "c++11",
+    "C_Cpp.default.intelliSenseMode": "gcc-x64",
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.intelliSenseEngine": "Tag Parser",
+    "files.associations": {
+        "xstring": "cpp"
+    }
+}
